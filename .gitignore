@@ -1,0 +1,12 @@
+
+# Ignorar archivos temporales y de configuración de Visual Studio
+.vs/
+*.user
+*.suo
+*.exe
+*.dll
+*.pdb
+*.obj
+*.log
+bin/
+obj/
